@@ -1,0 +1,15 @@
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\bin\Debug\netstandard2.0\calc_bDs.deps.json
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\bin\Debug\netstandard2.0\calc_bDs.dll
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\bin\Debug\netstandard2.0\ref\calc_bDs.dll
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\bin\Debug\netstandard2.0\calc_bDs.pdb
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\calc_bDs.csproj.AssemblyReference.cache
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\calc_bDs.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\calc_bDs.AssemblyInfoInputs.cache
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\calc_bDs.AssemblyInfo.cs
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\calc_bDs.csproj.CoreCompileInputs.cache
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\XamlC.stamp
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\calc_bDs.dll
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\ref\calc_bDs.dll
+D:\MyProjectsC#\calc_bDs\calc_bDs\calc_bDs\obj\Debug\netstandard2.0\calc_bDs.pdb
